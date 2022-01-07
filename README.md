@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cao Huynh Truong</h1>
 <h3 align="center">✊ 𝗣𝗵𝗗 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗠𝗜𝗧 👨‍🎓</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huynhtruongai&label=Profile%20views&color=0e75b6&style=flat" alt="huynhtruongai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=huynhtruongai&label=Profile%20views&color=000000&style=flat" alt="huynhtruongai" /> </p>
 
 - 📫 How to reach me **huynhtruongcao@gmail.com**
 
