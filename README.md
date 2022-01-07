@@ -16,4 +16,4 @@
 
 <p><img float = "left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhtruongai&show_icons=true&locale=en&layout=compact" alt="huynhtruongai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huynhtruongai&show_icons=true&locale=en" alt="huynhtruongai" /></p>
+<p>&nbsp;<img align="center" float = "left" src="https://github-readme-stats.vercel.app/api?username=huynhtruongai&show_icons=true&locale=en" alt="huynhtruongai" /></p>
